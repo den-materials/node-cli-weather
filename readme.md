@@ -10,7 +10,7 @@ Today we will use Node.js to make a request to **Weather Underground**.  Here ar
 
 1. Get an API key from [Weather Underground](https://www.wunderground.com/weather/api/).
 2. Set up your initial npm environment.
-3. Create `index.js`.
+3. Fill out `index.js`.
 4. Place your API key in a separate `env.js` file.
 
 ### Getting an API key
